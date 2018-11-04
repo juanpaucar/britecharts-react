@@ -17,6 +17,7 @@ const PATHS = {
 };
 const CHARTS = {
     Bar: `${PATHS.charts}/bar/Bar.js`,
+    Brush: `${PATHS.charts}/bar/Brush.js`,
     Donut: `${PATHS.charts}/donut/Donut.js`,
     GroupedBar: `${PATHS.charts}/groupedBar/GroupedBar.js`,
     Legend: `${PATHS.charts}/legend/Legend.js`,
